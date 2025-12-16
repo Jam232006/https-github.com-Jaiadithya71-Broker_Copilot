@@ -170,3 +170,6 @@ For issues and questions, please open an issue on GitHub.
 ## Contributors
 
 - Jai Adithya
+- Arya Chighare
+- Veeresh
+                                                         
